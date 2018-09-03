@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import GetData from '../containers/GetData';
 import HandleData from '../containers/HandleData';
 
